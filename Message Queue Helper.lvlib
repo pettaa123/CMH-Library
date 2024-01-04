@@ -4,9 +4,13 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">587235328</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Check Loop Error.vi" Type="VI" URL="../Message Queue/Helper/Check Loop Error.vi"/>
+	<Item Name="ClusterRef to Label-Value-Arrays.vi" Type="VI" URL="../Message Queue/Helper/ClusterRef to Label-Value-Arrays.vi"/>
 	<Item Name="Error Handler - Confirm Quit - Module.vi" Type="VI" URL="../Message Queue/Helper/Error Handler - Confirm Quit - Module.vi"/>
 	<Item Name="Error Handler - Confirm Quit.vi" Type="VI" URL="../Message Queue/Helper/Error Handler - Confirm Quit.vi"/>
 	<Item Name="Error Handler - Event Handling Loop.vi" Type="VI" URL="../Message Queue/Helper/Error Handler - Event Handling Loop.vi"/>
 	<Item Name="Error Handler - Message Handling Loop - Module.vi" Type="VI" URL="../Message Queue/Helper/Error Handler - Message Handling Loop - Module.vi"/>
 	<Item Name="Error Handler - Message Handling Loop.vi" Type="VI" URL="../Message Queue/Helper/Error Handler - Message Handling Loop.vi"/>
+	<Item Name="Insert VI into SubPanel.vi" Type="VI" URL="../Message Queue/Helper/Insert VI into SubPanel.vi"/>
+	<Item Name="Prepend to Log.vi" Type="VI" URL="../Message Queue/Helper/Prepend to Log.vi"/>
+	<Item Name="Variant to Data.vim" Type="VI" URL="../Message Queue/Helper/Variant to Data.vim"/>
 </Library>

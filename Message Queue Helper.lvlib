@@ -10,7 +10,5 @@
 	<Item Name="Error Handler - Event Handling Loop.vi" Type="VI" URL="../Message Queue/Helper/Error Handler - Event Handling Loop.vi"/>
 	<Item Name="Error Handler - Message Handling Loop - Module.vi" Type="VI" URL="../Message Queue/Helper/Error Handler - Message Handling Loop - Module.vi"/>
 	<Item Name="Error Handler - Message Handling Loop.vi" Type="VI" URL="../Message Queue/Helper/Error Handler - Message Handling Loop.vi"/>
-	<Item Name="Insert VI into SubPanel.vi" Type="VI" URL="../Message Queue/Helper/Insert VI into SubPanel.vi"/>
 	<Item Name="Prepend to Log.vi" Type="VI" URL="../Message Queue/Helper/Prepend to Log.vi"/>
-	<Item Name="Variant to Data.vim" Type="VI" URL="../Message Queue/Helper/Variant to Data.vim"/>
 </Library>

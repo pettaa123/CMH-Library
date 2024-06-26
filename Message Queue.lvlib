@@ -42,4 +42,6 @@
 	<Item Name="Enqueue Multiple Messages.vi" Type="VI" URL="../Message Queue/Enqueue Multiple Messages.vi"/>
 	<Item Name="Enqueue Message.vi" Type="VI" URL="../Message Queue/Enqueue Message.vi"/>
 	<Item Name="Enqueue Message Poly.vi" Type="VI" URL="../Message Queue/Enqueue Message Poly.vi"/>
+	<Item Name="Terminator Output.vi" Type="VI" URL="../Message Queue/Terminator Output.vi"/>
+	<Item Name="Terminator Input.vi" Type="VI" URL="../Message Queue/Terminator Input.vi"/>
 </Library>
